@@ -1,3 +1,2 @@
-Data_Structures_and_Algorithms
-About
-This repository contains data structres and algorithms. 
+### About
+This repositry contains Data structures and Algorithms.
